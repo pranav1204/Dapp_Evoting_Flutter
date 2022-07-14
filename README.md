@@ -1,16 +1,26 @@
-# voting_dapp
+## Election DApp 🏛
 
-A new Flutter project.
+Built a decentralized voting app based on Ethereum Blockchain. Using Truffle React box, to get up and running so quickly with development process, by using Truffle, we started implementing the Smart Conract that handle the voting transactions, then we started designing the amazing UI we have and imporove it to be suitable as blochain app. We finally connent Smart Contract witt the frontend by using web3.js.
 
-## Getting Started
+Front-end
 
-This project is a starting point for a Flutter application.
+-> Flutter
 
-A few resources to get you started if this is your first Flutter project:
+Smart contracts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+->Solidity
+->Web3.js to compile and deploy the smart contracts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+Testing
+->Run on both ios and android
+
+The app requires the use of two other technologies:
+
+->Metamask(to interact with the blockchain)
+->infura (to deploy the blockchain to local network)
+
+How it Works:
+
+I have created a dapp a voting tab or an election dapp so what will happen in our application is there will be an owner of the application owner of the  dapp or the owner of the election.
+
+Get understanding of the concepts of blockchain, meta mask, smart contract, solidity and all that.
