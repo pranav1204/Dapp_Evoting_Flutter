@@ -1,6 +1,6 @@
 ## Election DApp 🏛
 
-Built a decentralized voting app based on Ethereum Blockchain. Using Truffle React box, to get up and running so quickly with development process, by using Truffle, we started implementing the Smart Conract that handle the voting transactions, then we started designing the amazing UI we have and imporove it to be suitable as blochain app. We finally connent Smart Contract witt the frontend by using web3.js.
+Built a decentralized voting app based on Ethereum Blockchain. Using Remix, to get up and running so quickly with development process, by using Remix, we started implementing the Smart Conract that handle the voting transactions, then we started designing the amazing UI we have and imporove it to be suitable as blochain app. We finally connect Smart Contract with the frontend by using Flutter.
 
 Front-end
 
